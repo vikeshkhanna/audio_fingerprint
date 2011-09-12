@@ -1,0 +1,6 @@
+1. Recorded on 9th March 2011 by @vikeshkhanna 
+uselame.cpp has the full path to 'lame'. This may be different for different client computers. Ensure proper functioning by supplying the lame package alongwith the AFP installer and make sure the package is installed at the same path as used in uselame.cpp execv portion.  
+
+
+
+nwk3g10040530 (11th March 2011)

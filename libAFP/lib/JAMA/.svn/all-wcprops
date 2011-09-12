@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/vikeshkhanna_afp/!svn/ver/1/lib/JAMA
+END
+tnt_array2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vikeshkhanna_afp/!svn/ver/1/lib/JAMA/tnt_array2d.h
+END
+tnt_array2d_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vikeshkhanna_afp/!svn/ver/1/lib/JAMA/tnt_array2d_utils.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vikeshkhanna_afp/!svn/ver/1/lib/JAMA/Makefile.in
+END
+tnt_math_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vikeshkhanna_afp/!svn/ver/1/lib/JAMA/tnt_math_utils.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vikeshkhanna_afp/!svn/ver/1/lib/JAMA/Makefile.am
+END
+jama_svd.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/vikeshkhanna_afp/!svn/ver/1/lib/JAMA/jama_svd.h
+END
+tnt_array1d.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vikeshkhanna_afp/!svn/ver/1/lib/JAMA/tnt_array1d.h
+END
+tnt_array1d_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vikeshkhanna_afp/!svn/ver/1/lib/JAMA/tnt_array1d_utils.h
+END

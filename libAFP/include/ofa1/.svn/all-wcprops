@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/vikeshkhanna_afp/!svn/ver/1/include/ofa1
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vikeshkhanna_afp/!svn/ver/1/include/ofa1/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vikeshkhanna_afp/!svn/ver/1/include/ofa1/Makefile.am
+END
+ofa.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/vikeshkhanna_afp/!svn/ver/1/include/ofa1/ofa.h
+END
